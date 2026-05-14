@@ -1,2 +1,7 @@
-# python-learning-journey
-My Python learning journey and projects
+
+# Python Learning Journey
+
+This repository contains my Python practice projects and exercises.
+
+## Projects
+- Tip Calculator
